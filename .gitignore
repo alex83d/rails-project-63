@@ -1,10 +1,12 @@
 .vscode/*
 !.vscode/launch.json
-.history/
+
 .Gemfile.lock
 /.bundle/
+
 /.yardoc
 /_yardoc/
+
 /coverage/
 /doc/
 /pkg/
