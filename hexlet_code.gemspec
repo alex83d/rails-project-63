@@ -12,7 +12,6 @@ Gem::Specification.new do |spec|
   spec.summary = 'html form generate'
   spec.description = 'this generate form'
   spec.homepage = 'https://hexlet.io'
-  spec.executables = ['hexlet_code']
   # spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
   spec.metadata['homepage_uri'] = spec.homepage
