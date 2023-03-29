@@ -51,7 +51,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bundler (~> 2.4)
+  bundler (~> 2.3.7)
   hexlet_code!
   minitest (~> 5.18)
   rake (~> 13.0)
@@ -60,4 +60,4 @@ DEPENDENCIES
   simplecov
 
 BUNDLED WITH
-   2.4.10
+   2.3.26
