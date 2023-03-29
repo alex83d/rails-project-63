@@ -5,9 +5,9 @@ require_relative 'test_helper'
 
 User = Struct.new(:name, :job, :gender, keyword_init: true)
 
-# тесты для HexletCode
+# Test
 class HexletCodeTest < Minitest::Test
-  # Проверяем, что у HexletCode есть версия
+  # version to HexletCode
   def test_that_it_has_a_version
     refute_nil ::HexletCode::VERSION
   end

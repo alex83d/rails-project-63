@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   spec.metadata['source_code_uri'] = 'https://github.com/alex83d/rails-project-63'
   spec.metadata['changelog_uri'] = 'https://github.com/alex83d/rails-project-63/CHANGELOG.md'
   spec.post_install_message = 'Attention!!! This is a learning project.'
-  spec.required_ruby_version = Gem::Requirement.new('= 3.1.2')
+  spec.required_ruby_version = '= 3.1.2'
   spec.license = 'MIT'
 
   # Specify which files should be added to the gem when it is released.

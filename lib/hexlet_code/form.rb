@@ -18,7 +18,7 @@ module HexletCode
       input_field(name, type, label, value, attributes)
     end
 
-    # создаем html для кнопки с name по умолчанию
+    # create html for button
     def submit(name = 'Save')
       @output_buffer << "\n<input type=\"submit\" value=\"#{name}\">"
     end

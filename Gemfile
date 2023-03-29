@@ -11,6 +11,6 @@ group :test do
 end
 
 group :development do
-  gem 'rubocop', '~> 1.48', require: false
-  gem 'ruby-lsp', '~> 0.4.2', require: false
+  gem 'rake', '~> 13.0'
+  gem 'rubocop', '= 1.14', require: false
 end
