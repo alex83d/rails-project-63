@@ -7,6 +7,7 @@ gemspec
 
 group :test do
   gem 'minitest', '~> 5.18', require: false
+  gem 'reek', '>= 4.5.6'
   gem 'simplecov', require: false
 end
 
